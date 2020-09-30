@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troy96" alt="troy96" /> </p>
 
-- 🔭 I’m currently working on [Jobsto](Coming soon...)
+- 🔭 I’m currently working on a side project.
 
 - 🌱 I’m currently learning **RxJS, Flask and System Design**
 
-- 👯 I’m looking to collaborate on [Jobsto](Coming soon...)
+- 👯 I’m looking to collaborate on on a side project.
 
-- 🤝 I’m looking for help with [Jobsto](Coming soon...)
+- 🤝 I’m looking for help with on a side project.
+
 
 - 👨‍💻 All of my projects are available at [https://tuhinroy.in](https://tuhinroy.in)
 
