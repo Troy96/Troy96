@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a side project.
 
-- 🌱 I’m currently learning **GraphQl, React.js and System Design**
+- 🌱 I’m currently learning **GraphQL, React.js and System Design**
 
 - 👯 I’m looking to collaborate on on a side project.
 
