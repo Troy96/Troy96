@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troy96" alt="troy96" /> </p>
 
-- 🔭 I’m currently working on a side project.
+- 🔭 I’m currently working on Jobsto (https://jobsto.in).
 
 - 🌱 I’m currently learning **GraphQL, React.js and System Design**
 
