@@ -5,14 +5,11 @@
 
 - 🔭 I’m currently working with Unolo as a Full Stack Developer.
 
-- 🌱 I’m currently exploring **Advanced React.js and System Design**
+- 🌱 I like to explore **backend side of the things**
 
-- 🤝 I’m building a side-project on weekends - Jobsto (https://jobsto.in).
+- 🤝 I’m planning to work on some cool projects very soon.
 
-
-- 👨‍💻 All of my projects are available at [https://tuhinroy.in](https://tuhinroy.in)
-
-- 💬 Ask me about **JS, React, Node, AWS and System Design**
+- 💬 Ask me about **JS, Node, AWS and System Design**
 
 - 📫 How to reach me **troy0870@gmail.com**
 
