@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troy96" alt="troy96" /> </p>
 
-- 🔭 I’m currently working with Unolo as a Full Stack Developer.
+- 🔭 I’m currently working with Unolo as a Senior Software Engineer - Backend.
 
 - 🌱 I like to explore **backend side of the things**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JS, Node, AWS and System Design**
 
-- 📫 How to reach me **troy0870@gmail.com**
+- 📫 How to reach me **tuhin.careers@gmail.com**
 
 - ⚡ Fun fact **I do not code at night :P**
 
