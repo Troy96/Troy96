@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuhin Roy</h1>
-<h3 align="center">A full-stack developer with deep interests in startups and stock market</h3>
+<h3 align="center">A techie with deep interests in how the mind works and money</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troy96" alt="troy96" /> </p>
 
