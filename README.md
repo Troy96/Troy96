@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tuhin Roy</h1>
-<h3 align="center">A techie with deep interests in how the mind works and money</h3>
+<h3 align="center">A backend engieer exploring content creation on LinkedIn and X</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troy96" alt="troy96" /> </p>
 
-- 🔭 I’m currently working with Unolo as a Senior Software Engineer - Backend.
+- 🔭 I’m currently looking for new opportunities as a Senior Software Engineer/Lead in Backend.
 
-- 🌱 I like to explore **backend side of the things**
+- 🌱 I like to explore **Backend, AI, Psychology, Content Creation, Money**
 
-- 🤝 I’m planning to work on some cool projects very soon.
+- 🤝 I’m planning to work on some cool projects.
 
 - 💬 Ask me about **JS, Node, AWS and System Design**
 
