@@ -7,7 +7,7 @@
 
 - 🌱 I like to explore **Backend, AI, Psychology, Content Creation, Money**
 
-- 🤝 I’m planning to work on some cool projects.
+- 🤝 I’m always working on some side-projects about which I share on my socials.
 
 - 💬 Ask me about **JS, Node, AWS and System Design**
 
