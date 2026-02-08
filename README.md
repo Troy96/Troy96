@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuhin Roy</h1>
-<h3 align="center">A backend engieer exploring content creation on LinkedIn and X</h3>
+<h3 align="center">A software engineer exploring AI tools and content creation on LinkedIn and X</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=troy96" alt="troy96" /> </p>
 
